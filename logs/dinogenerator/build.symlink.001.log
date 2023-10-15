@@ -1,0 +1,20 @@
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/include/dinogenerator/GenerateDinoResponse.h
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/include/dinogenerator/GenerateDinoRequest.h
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/include/dinogenerator/GenerateDino.h
+Linked: (/home/user/robotic-systems-control/task1/dinogenerator_ws/devel/.private/dinogenerator/lib/pkgconfig/dinogenerator.pc, /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/lib/pkgconfig/dinogenerator.pc)
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/lib/python3/dist-packages/dinogenerator/__init__.py
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/lib/python3/dist-packages/dinogenerator/srv/_GenerateDino.py
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/lib/python3/dist-packages/dinogenerator/srv/__init__.py
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/share/common-lisp/ros/dinogenerator/srv/GenerateDino.lisp
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/share/common-lisp/ros/dinogenerator/srv/dinogenerator-srv.asd
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/share/common-lisp/ros/dinogenerator/srv/_package.lisp
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/share/common-lisp/ros/dinogenerator/srv/_package_GenerateDino.lisp
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/share/dinogenerator/cmake/dinogenerator-msg-extras.cmake
+Linked: (/home/user/robotic-systems-control/task1/dinogenerator_ws/devel/.private/dinogenerator/share/dinogenerator/cmake/dinogeneratorConfig.cmake, /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/share/dinogenerator/cmake/dinogeneratorConfig.cmake)
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/share/dinogenerator/cmake/dinogenerator-msg-paths.cmake
+Linked: (/home/user/robotic-systems-control/task1/dinogenerator_ws/devel/.private/dinogenerator/share/dinogenerator/cmake/dinogeneratorConfig-version.cmake, /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/share/dinogenerator/cmake/dinogeneratorConfig-version.cmake)
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/share/gennodejs/ros/dinogenerator/_index.js
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/share/gennodejs/ros/dinogenerator/srv/GenerateDino.js
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/share/gennodejs/ros/dinogenerator/srv/_index.js
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/share/roseus/ros/dinogenerator/manifest.l
+Symlinking /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/share/roseus/ros/dinogenerator/srv/GenerateDino.l

@@ -1,0 +1,1 @@
+/home/user/robotic-systems-control/task1/dinogenerator_ws/devel/.private/dinogenerator/lib/python3/dist-packages/dinogenerator/srv/__init__.py

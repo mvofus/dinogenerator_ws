@@ -1,0 +1,6 @@
+devel_space: /home/user/robotic-systems-control/task1/dinogenerator_ws/devel
+install: false
+install_space: /home/user/robotic-systems-control/task1/dinogenerator_ws/install
+profile: default
+source_space: /home/user/robotic-systems-control/task1/dinogenerator_ws/src
+workspace: /home/user/robotic-systems-control/task1/dinogenerator_ws

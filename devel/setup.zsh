@@ -1,0 +1,1 @@
+/home/user/robotic-systems-control/task1/dinogenerator_ws/devel/.private/catkin_tools_prebuild/setup.zsh

@@ -1,0 +1,57 @@
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/user/robotic-systems-control/task1/dinogenerator_ws/src/dinogenerator/src/subscriber.cpp:1[m[K:
+[01m[K/home/user/robotic-systems-control/task1/dinogenerator_ws/src/dinogenerator/src/subscriber.cpp:[m[K In function ‘[01m[Kbool generate(dinogenerator::GenerateDino::Request&, dinogenerator::GenerateDino::Response&)[m[K’:
+[01m[K/home/user/robotic-systems-control/task1/dinogenerator_ws/src/dinogenerator/src/subscriber.cpp:23:14:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 8 has type ‘[01m[Kdinogenerator::GenerateDinoRequest_<std::allocator<void> >::_input_word_type[m[K’ {aka ‘[01m[Kstd::__cxx11::basic_string<char>[m[K’} [[01;35m[K-Wformat=[m[K]
+   23 |     ROS_INFO([01;35m[K"request: %s"[m[K, req.input_word);
+      |              [01;35m[K^~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/user/robotic-systems-control/task1/dinogenerator_ws/src/dinogenerator/src/subscriber.cpp:23:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+   23 |     [01;36m[KROS_INFO[m[K("request: %s", req.input_word);
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[K/home/user/robotic-systems-control/task1/dinogenerator_ws/src/dinogenerator/src/subscriber.cpp:23:25:[m[K [01;36m[Knote: [m[Kformat string is defined here
+   23 |     ROS_INFO("request: [01;36m[K%s[m[K", req.input_word);
+      |                        [01;36m[K~^[m[K
+      |                         [01;36m[K|[m[K
+      |                         [01;36m[Kchar*[m[K
+In file included from [01m[K/opt/ros/noetic/include/ros/ros.h:40[m[K,
+                 from [01m[K/home/user/robotic-systems-control/task1/dinogenerator_ws/src/dinogenerator/src/subscriber.cpp:1[m[K:
+[01m[K/home/user/robotic-systems-control/task1/dinogenerator_ws/src/dinogenerator/src/subscriber.cpp:24:14:[m[K [01;35m[Kwarning: [m[Kformat ‘[01m[K%s[m[K’ expects argument of type ‘[01m[Kchar*[m[K’, but argument 8 has type ‘[01m[Kdinogenerator::GenerateDinoResponse_<std::allocator<void> >::_output_dino_name_type[m[K’ {aka ‘[01m[Kstd::__cxx11::basic_string<char>[m[K’} [[01;35m[K-Wformat=[m[K]
+   24 |     ROS_INFO([01;35m[K"sending back response:[%s]"[m[K, res.output_dino_name);
+      |              [01;35m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:351:165:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION_WITH_FILTER[m[K’
+  351 |     ::ros::console::print(filter, __rosconsole_define_location__loc.logger_, __rosconsole_define_location__loc.level_, __FILE__, __LINE__, __ROSCONSOLE_FUNCTION__, [01;36m[K__VA_ARGS__[m[K)
+      |                                                                                                                                                                     [01;36m[K^~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:390:7:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROSCONSOLE_PRINT_AT_LOCATION[m[K’
+  390 |       [01;36m[KROSCONSOLE_PRINT_AT_LOCATION[m[K(__VA_ARGS__); \
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/ros/console.h:575:35:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG_COND[m[K’
+  575 | #define ROS_LOG(level, name, ...) [01;36m[KROS_LOG_COND[m[K(true, level, name, __VA_ARGS__)
+      |                                   [01;36m[K^~~~~~~~~~~~[m[K
+[01m[K/opt/ros/noetic/include/rosconsole/macros_generated.h:110:23:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_LOG[m[K’
+  110 | #define ROS_INFO(...) [01;36m[KROS_LOG[m[K(::ros::console::levels::Info, ROSCONSOLE_DEFAULT_NAME, __VA_ARGS__)
+      |                       [01;36m[K^~~~~~~[m[K
+[01m[K/home/user/robotic-systems-control/task1/dinogenerator_ws/src/dinogenerator/src/subscriber.cpp:24:5:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KROS_INFO[m[K’
+   24 |     [01;36m[KROS_INFO[m[K("sending back response:[%s]", res.output_dino_name);
+      |     [01;36m[K^~~~~~~~[m[K
+[01m[K/home/user/robotic-systems-control/task1/dinogenerator_ws/src/dinogenerator/src/subscriber.cpp:24:39:[m[K [01;36m[Knote: [m[Kformat string is defined here
+   24 |     ROS_INFO("sending back response:[[01;36m[K%s[m[K]", res.output_dino_name);
+      |                                      [01;36m[K~^[m[K
+      |                                       [01;36m[K|[m[K
+      |                                       [01;36m[Kchar*[m[K
+/usr/bin/ld: CMakeFiles/server.dir/src/subscriber.cpp.o: in function `__static_initialization_and_destruction_0(int, int)':
+subscriber.cpp:(.text+0xa87): undefined reference to `random_numbers::RandomNumberGenerator::RandomNumberGenerator()'
+collect2: error: ld returned 1 exit status
+make[2]: *** [CMakeFiles/server.dir/build.make:101: /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/.private/dinogenerator/lib/dinogenerator/server] Error 1
+make[1]: *** [CMakeFiles/Makefile2:737: CMakeFiles/server.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

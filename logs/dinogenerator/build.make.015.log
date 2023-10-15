@@ -1,0 +1,20 @@
+[35m[1mScanning dependencies of target client[0m
+[35m[1mScanning dependencies of target server[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[ 18%] [32mBuilding CXX object CMakeFiles/server.dir/src/subscriber.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/client.dir/src/publisher.cpp.o[0m
+[ 18%] Built target _dinogenerator_generate_messages_check_deps_GenerateDino
+[ 27%] Built target dinogenerator_generate_messages_nodejs
+[ 81%] Built target dinogenerator_generate_messages_cpp
+[ 81%] Built target dinogenerator_generate_messages_lisp
+[ 81%] Built target dinogenerator_generate_messages_eus
+[ 81%] Built target dinogenerator_generate_messages_py
+[ 81%] Built target dinogenerator_generate_messages
+[ 90%] [32m[1mLinking CXX executable /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/.private/dinogenerator/lib/dinogenerator/client[0m
+[100%] [32m[1mLinking CXX executable /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/.private/dinogenerator/lib/dinogenerator/server[0m
+[100%] Built target client
+[100%] Built target server

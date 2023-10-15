@@ -1,0 +1,6 @@
+/usr/bin/ld: cannot find -lrandom_numbers
+collect2: error: ld returned 1 exit status
+make[2]: *** [CMakeFiles/server.dir/build.make:101: /home/user/robotic-systems-control/task1/dinogenerator_ws/devel/.private/dinogenerator/lib/dinogenerator/server] Error 1
+make[1]: *** [CMakeFiles/Makefile2:737: CMakeFiles/server.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [Makefile:141: all] Error 2

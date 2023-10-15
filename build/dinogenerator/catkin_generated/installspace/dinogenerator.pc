@@ -1,0 +1,8 @@
+prefix=/home/user/robotic-systems-control/task1/dinogenerator_ws/install
+
+Name: dinogenerator
+Description: Description of dinogenerator
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

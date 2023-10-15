@@ -1,0 +1,1 @@
+/home/user/robotic-systems-control/task1/dinogenerator_ws/devel/.private/dinogenerator/share/common-lisp/ros/dinogenerator/srv/GenerateDino.lisp
